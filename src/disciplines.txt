@@ -1,0 +1,9 @@
+1;Mate
+2;Sport
+3;Dezbateri
+4;Afaceri
+5;Smecherii
+6;Combinatii
+7;Talent
+8;Concurs
+9;Urs

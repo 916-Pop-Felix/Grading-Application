@@ -1,0 +1,19 @@
+1;Ionel
+
+2;Marcel
+
+3;Sorin
+
+4;Florin
+
+5;Bere Danut
+
+6;Eu sunt ursu
+
+7;Si a inceput concursu
+
+8;Ce concurs?
+
+9;A inceput carnavalu
+
+10;Sergiu
